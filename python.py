@@ -1,9 +1,9 @@
 import requests
 
-url = 'https://discord.com/api/webhooks/1430245473955872981/oKKIGGydiJiqTlQrjeaCAkIgJYqp_kxxgSJvUSz8C0URFpn98JCVShq2P1Io7r8I_PkZ'
+url = 'https://discord.com/api/v9/channels/1465749994589130797/messages'
 
 payload = {
-    'content' : 'Hi!',
+    'content' : 'FAH!',
 }
 
 headers = {
